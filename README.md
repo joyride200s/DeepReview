@@ -114,9 +114,6 @@ Vercel
 🔗 Live App
 https://deep-review-app.vercel.app
 
-🧑‍💻 GitHub Repository
-https://github.com/Mohamedkhattab02/DeepReview.git
-
 🎥 Demo Video
 https://drive.google.com/file/d/1Gjpq9Lo93H9_spa3F-LLmNNhdkrh2mqx/view
 
